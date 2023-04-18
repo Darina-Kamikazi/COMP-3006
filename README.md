@@ -1,0 +1,2 @@
+# COMP-3006
+COMP 3006 projects
